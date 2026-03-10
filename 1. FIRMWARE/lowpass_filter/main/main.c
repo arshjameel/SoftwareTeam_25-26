@@ -1,3 +1,7 @@
+// main.c
+// Main application file...
+// TODO: need to refactor by SEPARATING FILTER IMPLEMENTATION into diff. file!!
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
